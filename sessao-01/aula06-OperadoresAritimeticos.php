@@ -32,4 +32,12 @@ echo $divisao;
 $resto = $numero01 % $numero02;
 echo '</br>';
 echo $resto;
+
+
+//precedência de operadores
+
+$precedencia = $numero01 + $numero02 * 5;
+echo '</br>';
+echo 'precedência: '.$precedencia;
+
 ?>
