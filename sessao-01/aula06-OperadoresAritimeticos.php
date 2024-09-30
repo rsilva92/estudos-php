@@ -1,7 +1,6 @@
 <?php
 /**
 aula de operadores aritiméticos
-
 **/
 
 $numero01 = 100;
