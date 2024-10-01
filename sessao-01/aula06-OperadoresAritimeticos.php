@@ -39,4 +39,9 @@ $precedencia = $numero01 + $numero02 * 5;
 echo '</br>';
 echo 'precedência: '.$precedencia;
 
+//segundo exemplo de precedência de operadores
+$precedencia2 = ($numero01 + $numero02) * 5;
+echo '</br>';
+echo 'segundo exemplo de precedencia de operadores ' .$precedencia2;
+
 ?>
